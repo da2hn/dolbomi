@@ -29,5 +29,5 @@ DB에 저장하고 환불 기능도 구현할 수 있었을 거라는 아쉬움�
 
 <hr/>
 
-### 프로젝트에서 사용한 스택 : HTML, CSS, JavaScript, jQuery, Thymeleaf, SpringBoot
+### 프로젝트에서 사용한 스택 : HTML, CSS, JavaScript, jQuery, Java, SpringBoot, Oracle
 
